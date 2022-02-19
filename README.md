@@ -17,5 +17,5 @@ Paper : https://www.koreascience.or.kr/article/JAKO201911338887857.page
 
 ## Demo video
 
-<img src="https://user-images.githubusercontent.com/73271891/154786975-2f314bdf-3181-4877-ae1f-353d72755b53.gif">
+<img src="https://user-images.githubusercontent.com/73271891/154790082-2f441ea1-16d0-41ac-b7ae-3c4d373c9afc.gif">
 
