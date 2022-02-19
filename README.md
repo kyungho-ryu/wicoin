@@ -13,7 +13,7 @@ We proposes a blockchain system to share Wireless Local Area Network (WLAN) that
 <img src="https://user-images.githubusercontent.com/73271891/154786485-dbe02abb-f89d-4580-af1a-ffe0398b3aca.png" width="70%">
 
 
-## Simulation
+## Demo video
 
 <img src="https://user-images.githubusercontent.com/73271891/154786975-2f314bdf-3181-4877-ae1f-353d72755b53.gif">
 
