@@ -10,7 +10,7 @@ Paper : https://www.koreascience.or.kr/article/JAKO201911338887857.page
 - /build/contracts/ 
   - netcoin.sol : provides functions to share the ERC20 based wireless LAN
 
-- /connection
+- /connection/
   - connect.js : Connecting the blockchain to the server using web3.js
 
 
