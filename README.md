@@ -8,6 +8,6 @@ We proposes a blockchain system to share Wireless Local Area Network (WLAN) that
 ## system configuration
 
 <img src="https://github.com/kyungho-ryu/wicoin/issues/1#issue-1144354423">
-
+d
 ## Contents 
 - netcoin.sol : This provides functions to share the ERC20 based wireless LAN
