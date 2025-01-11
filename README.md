@@ -44,20 +44,20 @@ Watch the demonstration of WiCoin in action:
    ```bash
    git clone https://github.com/your-repo-link.git
    cd WiCoin
-
-
-
-
-## Contents 
-- /build/contracts/ 
-  - netcoin.sol : provides functions to share the ERC20 based wireless LAN
-
-- /connection/
-  - connect.js : Connecting the blockchain to the server using web3.js
-
-
+   ```
+### **2. Install dependencies:
+```bash
+npm install
+```
+### **3. Deploy the smart contract:
+```bash
+truffle migrate --network development
+```
+### **4. Run the server:
+```bash
+node connect.js
+```
 
 ## Demo video
-
 <img src="https://user-images.githubusercontent.com/73271891/154790082-2f441ea1-16d0-41ac-b7ae-3c4d373c9afc.gif">
 
