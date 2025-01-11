@@ -27,12 +27,6 @@ For more technical details, refer to the original paper:
 
 ---
 
-## **Demo Video**
-Watch the demonstration of WiCoin in action:  
-[**Demo Video Link**](#) *(Replace `#` with the actual video link)*
-
----
-
 ## **How to Run the Project**
 
 ### **1. Prerequisites**
@@ -57,7 +51,7 @@ truffle migrate --network development
 ```bash
 node connect.js
 ```
-
-## Demo video
+---
+## **Demo Video**
+Watch the demonstration of WiCoin:  
 <img src="https://user-images.githubusercontent.com/73271891/154790082-2f441ea1-16d0-41ac-b7ae-3c4d373c9afc.gif">
-
