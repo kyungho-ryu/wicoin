@@ -39,21 +39,21 @@ Watch the demonstration of WiCoin in action:
 - Node.js and npm installed.
 - A local blockchain environment (e.g., Ganache or an Ethereum-based test network).
 
-### **2. Setup Instructions**
+### 2. Setup Instructions**
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-repo-link.git
    cd WiCoin
    ```
-### **2. Install dependencies:
+2. Install dependencies:
 ```bash
 npm install
 ```
-### **3. Deploy the smart contract:
+3. Deploy the smart contract:
 ```bash
 truffle migrate --network development
 ```
-### **4. Run the server:
+4. Run the server:
 ```bash
 node connect.js
 ```
